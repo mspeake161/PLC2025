@@ -6,4 +6,4 @@
 ## Editing and running the code via a web browser
 
 - Make an account on [gitpod.io](https://gitpod.io)
-- Open an IDE using [this link](https://gitpod.io/#https://github.com/khanAston/PLC2025).
+- Open an IDE using [this link](https://gitpod.io/#https://github.com/mspeake161/PLC2025).
